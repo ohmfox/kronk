@@ -89,8 +89,8 @@ table.pane {
 
 a {
   color:#5182E8;
-  text-decoration:none;
-  border:1px solid #5182E8;
+  text-decoration:none !important;
+  border-bottom:1px solid #5182E8;
   outline: 0;
   transition:padding .2s;
 }
