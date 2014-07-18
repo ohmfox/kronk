@@ -102,6 +102,8 @@ a {
 #viewList td.active {
   border:1px solid #c1c1c1;
   background:#fff;
+  border-top-left-radius:2px;
+  border-top-right-radius:2px;
 }
 
 a:hover {
