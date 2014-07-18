@@ -59,8 +59,14 @@ body {
 }
 
 #main-table {
-  background:#fff;
-  background-image:none;
+  background:#fff !important;
+  background-image:none !important;
+}
+
+#top-panel {
+  background:none;
+  height:50px;
+  font-family:sans-serif;
 }
 
 #header {
